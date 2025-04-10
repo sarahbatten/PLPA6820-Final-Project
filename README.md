@@ -1,1 +1,3 @@
 # PLPA6820-Final-Project
+
+This project contains the data and scripts that were used to analyze RNA sequencing data for a study that is examining the differential gene expression in insulin network pathway genes between large and small dogs. This pipeline is to take RNAseq data that has already been sequenced, mapped, and is ready for differential gene expression analysis. A volcano plot and heat map to visualize the differential gene expression will be generated. 
